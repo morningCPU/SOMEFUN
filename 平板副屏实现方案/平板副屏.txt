@@ -1,0 +1,6 @@
+平板副屏实现方案
+1.  安装 sunshine
+    sunshine官网 ： https://app.lizardbyte.dev/Sunshine/?lng=zh-CN
+    安装时没有特殊要求
+    安装完成状态栏会出现 Sunshine 图标
+    
